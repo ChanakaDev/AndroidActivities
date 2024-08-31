@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidActivities</string>
+    <string name="btn_txt">click me!</string>
+</resources>

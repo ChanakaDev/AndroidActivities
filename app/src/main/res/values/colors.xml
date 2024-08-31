@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="pink">#E300B1</color>
+    <color name="blue">#3598DC</color>
+    <color name="orange">#E77E23</color>
+    <color name="ranilge_pata">#2FCC71</color>
+</resources>
